@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="MobiKwik">
+  <rect width="64" height="64" rx="14" fill="#f05a28"/>
+  <path d="M13 43V21h7l6 9 6-9h7v22h-7V32l-6 8-6-8v11h-7Z" fill="#fff"/>
+  <path d="M44 43V21h7v8l6-8h8L55 33l10 10h-9l-5-6v6h-7Z" fill="#fff" opacity=".9"/>
+</svg>
