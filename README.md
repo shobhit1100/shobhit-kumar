@@ -1,4 +1,4 @@
-# Shobhit Kumar CV Site
+# Shobhit Kumar
 
 Static personal CV website with recruiter-friendly sections:
 
@@ -21,12 +21,18 @@ Then open:
 http://localhost:5173
 ```
 
+## Live Site
+
+```text
+https://shobhit1100.github.io/shobhit-kumar/
+```
+
 ## Deploy To Vercel
 
 1. Push this folder to GitHub.
 2. Import the repository in Vercel.
 3. Keep the default static deployment settings.
-4. Set the project name to something clean, for example `shobhitkumar`.
+4. Set the project name to something clean, for example `shobhit-kumar`.
 
 If the Vercel project name is available, the free URL should be:
 
